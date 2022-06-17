@@ -16,12 +16,4 @@
 > Databases:  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="30">
  <img src="https://nghiahsgs.com/wp-content/uploads/2020/08/sql.png" width="30"> <img src="https://thaison.edu.vn/datafiles/setone/1555130678_MSSQLServer.png" width="30"><img src="https://stackjava.com/wp-content/uploads/2018/07/mongodb.png" width="30"><img src="https://miro.medium.com/max/600/1*R4c8lHBHuH5qyqOtZb3h-w.png" width="30">
  
-
-
- 
- 
- 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DylanVo28)](https://github.com/anuraghazra/github-readme-stats)
-
-![javascript](https://vi.cleanpng.com/png-yhgp99/)
+> MSC: <img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" width="30"><img src="https://gitlab.com/uploads/-/system/project/avatar/4563480/logo-extra-whitespace.png" width="30">
