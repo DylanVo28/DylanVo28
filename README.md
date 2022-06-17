@@ -17,3 +17,5 @@
  <img src="https://nghiahsgs.com/wp-content/uploads/2020/08/sql.png" width="30"> <img src="https://thaison.edu.vn/datafiles/setone/1555130678_MSSQLServer.png" width="30"><img src="https://stackjava.com/wp-content/uploads/2018/07/mongodb.png" width="30"><img src="https://miro.medium.com/max/600/1*R4c8lHBHuH5qyqOtZb3h-w.png" width="30">
  
 > MSC: <img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" width="30"><img src="https://gitlab.com/uploads/-/system/project/avatar/4563480/logo-extra-whitespace.png" width="30">
+
+> Deploy: <img src="https://user-images.githubusercontent.com/33750251/60287980-21aa2700-990b-11e9-9c9d-a79874587a86.png" width="30"><img src="https://gyazo.com/24875377a9eeb65725d6f060af40428f/max_size/1000" width="30">
