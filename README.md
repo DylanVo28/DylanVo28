@@ -21,4 +21,4 @@
 > Deploy: <img src="https://user-images.githubusercontent.com/33750251/60287980-21aa2700-990b-11e9-9c9d-a79874587a86.png" width="30"><img src="https://gyazo.com/24875377a9eeb65725d6f060af40428f/max_size/1000" width="30">
 
 > Acahievements: 
-Hackerrank: Algorithms(**), SQL(**)
+Hackerrank: Algorithms(2*), SQL(2*)
