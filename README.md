@@ -4,7 +4,7 @@
 #### 😗 About me
 > 💻 I am currently working as a frontend developer.
 
-> 🌼Sometimes, I study new technologies for myself
+> 🌼Sometimes, I study new technologies for my career
 
 > 🐱 I also likes art and cat
 
